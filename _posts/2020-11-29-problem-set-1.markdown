@@ -2,7 +2,7 @@
 layout: post
 title:  "Problem Set 1"
 date:   2020-11-29 16:20:57 +0800
-categories: jekyll update
+categories: python problem-set
 ---
 
 ### Problem 1 ###
