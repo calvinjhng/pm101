@@ -33,10 +33,12 @@ Result: "mapte"
 
 ### Skeleton ###
 ```python
-def replace_string(word, phrase):
+def string_replace(word, phrase):
     # Write rest of code here
 
 
 # Test cases
-print(replace_string("apple", ["mary", "had", "a", "little", "lamb"]) == "mapte")
+print(string_replace("apple", ["mary", "had", "a", "little", "lamb"]) == "mapte")
+print(string_replace("apple", ["twinkle", "little", "star", "how", "wonder"]) == "tiale")
+print(string_replace("apple", ["old", "macdonald", "had", "a", "farm"]) == "oadle")
 ```
